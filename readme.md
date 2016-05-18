@@ -14,6 +14,6 @@ _Thư mục webroot xampp thường là `C:/xampp/htdocs` của MAMP là `/Appli
 # Bài tập
 
 Thực hiện các bài tập 1->7 của [trainee003](https://github.com/colombo-trainee/trainee003) bằng PHP (Không dùng bất kỳ đoạn javascript nào).
-Về input của các bài tập có thể nhập cứng trong code hoặc [truyền dữ liệu qua form](https://www.youtube.com/watch?v=RwN17wW-DAM)
+Về input của các bài tập có thể nhập cứng trong code hoặc [truyền dữ liệu qua form/url](https://www.youtube.com/watch?v=RwN17wW-DAM)
 
 
