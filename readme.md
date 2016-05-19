@@ -18,7 +18,7 @@ Về input của các bài tập có thể nhập cứng trong code hoặc [truy
 
 # Bonus
 
-1. Sử dụng PHP giải quyết bài tập sau:
+### Bài 1. Sử dụng PHP giải quyết bài tập sau:
 
 - Tên file : `paginator.php`
 - Đầu vào
@@ -29,8 +29,8 @@ Về input của các bài tập có thể nhập cứng trong code hoặc [truy
  - Nút **Hiển thị**
 
 - Đầu ra : Hiển thị các số chia hết cho b nhỏ hơn a và lớn hơn 0 thành các trang, mỗi trang có c số thỏa mãn. Nút **Trang trước**, **Trang sau** để hiển thị c số trước/sau c số hiện tại.
- 
-2. Sử dụng PHP giải quyết bài tập sau:
+
+### Bài 2. Sử dụng PHP giải quyết bài tập sau:
 
 - Tên file : `string.php`
 - Đầu vào
