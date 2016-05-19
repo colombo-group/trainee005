@@ -44,4 +44,5 @@ Về input của các bài tập có thể nhập cứng trong code hoặc [truy
  - Số lần xuất hiện ký tự a
  - Danh sách các từ chứa ký tự a
  - Đoạn văn bản b với các ký tự a được bôi đậm
+ - Đoạn văn bản b với các từ có ký tự a được bôi đậm
  
