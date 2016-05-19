@@ -16,4 +16,32 @@ _Thư mục webroot xampp thường là `C:/xampp/htdocs` của MAMP là `/Appli
 Thực hiện các bài tập 1->7(trừ bài 3) của [trainee003](https://github.com/colombo-trainee/trainee003) bằng PHP (Không dùng bất kỳ đoạn javascript nào).
 Về input của các bài tập có thể nhập cứng trong code hoặc [truyền dữ liệu qua form/url](https://www.youtube.com/watch?v=RwN17wW-DAM)
 
+# Bonus
 
+1. Sử dụng PHP giải quyết bài tập sau:
+
+- Tên file : `paginator.php`
+- Đầu vào
+
+ - Số a
+ - Số b
+ - Số c
+ - Nút **Hiển thị**
+
+- Đầu ra : Hiển thị các số chia hết cho b nhỏ hơn a và lớn hơn 0 thành các trang, mỗi trang có c số thỏa mãn. Nút **Trang trước**, **Trang sau** để hiển thị c số trước/sau c số hiện tại.
+ 
+2. Sử dụng PHP giải quyết bài tập sau:
+
+- Tên file : `string.php`
+- Đầu vào
+
+ - Đoạn văn bản b
+ - Ký tự a
+ - Nút **Phân tích**
+
+- Đầu ra : Sau khi ấn nút **Phân tích**
+
+ - Số lần xuất hiện ký tự a
+ - Danh sách các từ chứa ký tự a
+ - Đoạn văn bản b với các ký tự a được bôi đậm
+ 
