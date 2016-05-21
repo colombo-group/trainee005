@@ -28,7 +28,19 @@ Về input của các bài tập có thể nhập cứng trong code hoặc [truy
  - Số c
  - Nút **Hiển thị**
 
-- Đầu ra : Hiển thị các số chia hết cho b nhỏ hơn a và lớn hơn 0 thành các trang, mỗi trang có c số thỏa mãn. Nút **Trang trước**, **Trang sau** để hiển thị c số trước/sau c số hiện tại.
+- Đầu ra : 
+
+ - Level 1: Hiển thị các số chia hết cho b nhỏ hơn a và lớn hơn 0 thành các trang, mỗi trang có c số thỏa mãn. Nút **Trang trước**, **Trang sau** để hiển thị c số trước/sau c số hiện tại.
+         
+        [Trang trước][Trang sau]
+
+ - Level 2: Hiển thị liên kết đến các trang như sau
+ 
+        [Trang trước] [1] ... [3][4][**5**][6][7] ... [31] [Trang sau]
+
+        [Trang trước] [1][2][**3**][4][5] ... [31] [Trang sau]
+        
+        [Trang trước] [1] ... [27][28][29][**30**][31] [Trang sau]
 
 ### Bài 2. Sử dụng PHP giải quyết bài tập sau:
 
